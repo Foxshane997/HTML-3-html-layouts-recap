@@ -86,9 +86,11 @@ span {
     width:20px;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 8px;
+    margin-bottom: 5px;
   }
 
-  .puppy-container:hover {
+  .puppy-container:{
     color: lightblue;
     flex-wrap: wrap;
     justify-content: center;
@@ -96,10 +98,11 @@ span {
     background-color: lightblue;
   }
 
-  .puppy-h1 {
+  .puppy-h1:hover {
     font-family:Roboto Condensed;
     flex-wrap: wrap;
     justify-content: center;
+    color: lightblue;
   }
 
   .hero-logo {
